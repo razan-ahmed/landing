@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Bubblegum Sans|Grandstander|Mountains of Christmas");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family:'Grandstander', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1, h2 {
+	font-family:'Bubblegum Sans', sans-serif;
+	font-weight: bold;
+
+}
+
+h3 {
+	font-family:'Grandstander', sans-serif;
+	font-weight: lighter;
+}
+a {
+	text-decoration: none;
+}
